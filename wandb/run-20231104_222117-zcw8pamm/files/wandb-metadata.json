@@ -1,0 +1,49 @@
+{
+    "os": "Linux-5.15.120+-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-11-04T22:21:23.108193",
+    "startedAt": "2023-11-04T22:21:17.126900",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "test001.ipynb",
+    "colab": "https://colab.research.google.com/notebook#fileId=1ErdpJ0MT0ncm2PTy1HuN9odpbYB6kAbc",
+    "host": "4ae021ff65d6",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2199.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 78.1898422241211,
+        "used": 27.928951263427734
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 16106127360
+        }
+    ],
+    "memory": {
+        "total": 12.6783447265625
+    }
+}
