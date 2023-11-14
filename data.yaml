@@ -1,0 +1,3 @@
+{names: [Attention, Giveway, Giveway_Roundabout, Keepleft, Narrowahead, Norightturn,
+    Other, Roaddiverges, Speedlimits], nc: 9, test: /content/drive/MyDrive/mytsr2023/datasets/test,
+  train: /content/drive/MyDrive/mytsr2023/datasets/train, val: /content/drive/MyDrive/mytsr2023/datasets/valid}
