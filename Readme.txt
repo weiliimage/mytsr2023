@@ -24,6 +24,9 @@ print(os.getcwd())
 
 
 4. Prepare the datasets
+The link to our datasets:
+https://drive.google.com/drive/folders/17FX9BNWW6rLdQeODghMiJsbs0nbwKlnO?usp=sharing
+
 datasets/nzts01low     :low-light enhancement training dataset
 datasets/nzts01high    :low-light enhancement labelled dataset
 datasets/nzts02        :traffic sign classification dataset
