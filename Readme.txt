@@ -24,9 +24,13 @@ print(os.getcwd())
 
 
 4. Prepare the datasets
-The link to our datasets:
-https://drive.google.com/drive/folders/17FX9BNWW6rLdQeODghMiJsbs0nbwKlnO?usp=sharing
+The link to our dataset NZTS2024:
+https://www.kaggle.com/datasets/willliwill2023/nzts2024low-light-traffic-sign-dataset-in-nz
 
+NZTS2024 consists of LLIE folder and TSR folder.
+
+or
+you can prepare your dataset like this:
 datasets/nzts01low     :low-light enhancement training dataset
 datasets/nzts01high    :low-light enhancement labelled dataset
 datasets/nzts02        :traffic sign classification dataset
